@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/kleytonsolinho/FastFeet/blob/master/logo.png" alt="Fast Feet APP" width="120">
+  <img src="https://github.com/kleytonsolinho/FastFeet/blob/master/logo.png" alt="Fast Feet APP" width="100%">
 <br>
 <br>
 FAST FEET
