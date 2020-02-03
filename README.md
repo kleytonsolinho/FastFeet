@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://github.com/kleytonsolinho/FastFeet/blob/master/logo.png" alt="Fast Feet APP" width="50%">
 <br>
 <br>
-YOUR_PROJECT_NAME
+FAST FEET
 </h1>
 
 <p align="center">A little description about your project</p>
@@ -22,7 +22,7 @@ YOUR_PROJECT_NAME
 
 <hr />
 
-## Features
+## 📜 Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
@@ -30,11 +30,11 @@ This app features all the latest tools and practices in mobile development!
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
 
-## Getting started
+## 🚀 Getting started
 
 Describe here the way to use/install your project
 
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
