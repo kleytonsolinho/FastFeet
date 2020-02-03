@@ -1,9 +1,9 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://github.com/kleytonsolinho/FastFeet/blob/master/logo.png" alt="Fast Feet APP" width="120">
 <br>
 <br>
-YOUR_PROJECT_NAME
+FAST FEET
 </h1>
 
 <p align="center">A little description about your project</p>
