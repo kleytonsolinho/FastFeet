@@ -60,7 +60,7 @@
 
 ## 💻 Projeto
 
-Neste projeto você vai encontrar uma aplicação completa, contendo a API REST(**Back-end**), versão WEB (**Front-end**) e versão para dispositivos móveis(**Mobile**). O FastFeet faz parte do desafio final do Bootcamp GoStack da <a target="_blank" href="https://rocketseat.com.br/">Rocketseat</a>.
+Neste projeto você vai encontrar uma aplicação completa, contendo a API REST(**Back-end**), versão WEB (**Front-end**) e versão para dispositivos móveis(**Mobile**). O FastFeet é um aplicação web/mobile para gestão de uma transportadora.
 
 
 ## 📥 Instalação e execução
