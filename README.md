@@ -68,7 +68,7 @@ Neste projeto você vai encontrar uma aplicação completa, contendo a API REST(
 Faça um clone desse repositório e acesse o diretório
 
 ```bash
-$ git clone https://github.com/kleytonsolinho/FastFeet.git && cd fast-feet
+$ git clone https://github.com/kleytonsolinho/FastFeet.git && cd FastFeet
 ```
 
 ### Backend
